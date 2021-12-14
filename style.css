@@ -1,12 +1,33 @@
+body {
+    background-color: black;
+    
+
+}
 .maindiv {
     background-color:white;
     color:black;
-    width:300px;
+
+    width:fit-content;
+    padding-top : 10px;
+    
     padding:20px;
+    margin : auto;
+
     border-radius:25px;
-    align:center
+    align:center;
 }
-h1{color:grey;}
+
+#userData {
+    margin-left : 50px;
+}
+
+.userInput {
+    margin-bottom: 15px;
+    margin-left: 20px;    
+}
+h1  {
+    color:grey;
+}
 
 
 

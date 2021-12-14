@@ -7,7 +7,7 @@ var year;
 
 // function to update the HTML value for rate <span> 
 function updateRate() 
-{}
+{
     // create a local variable to hold the rate set in the slider
     var rateval = document.getElementById("rate").value;
 
